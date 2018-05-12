@@ -1,0 +1,30 @@
+_repo: Masters-in-Art-Part-32-v.-3-August-1902--GiottoA-Series-of-Illustrated-Monographs_42952
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42952-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2013-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Giotto, 1266?-1337'
+title: 'Masters in Art, Part 32, v. 3, August, 1902: Giotto
+
+  A Series of Illustrated Monographs'
+url: http://www.gutenberg.org/ebooks/42952
